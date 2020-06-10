@@ -6,7 +6,7 @@ Merve Özen,
 Nurefşan Müsevitoğlu
 
 ## Download Datasets
-Crema-D and eNTERFACE'05 datasets can be downloaded following links, [Crema-D](https://drive.google.com/drive/folders/15fLaAmJnFEaUpx0pqikQqptg5dAkT0QX?usp=sharing) and [eNTERFACE'05](https://drive.google.com/drive/folders/1PG9XDSpjduN5ygghUH078XvVoxiB2n0e?usp=sharing). The samples in the datasets are in the preprosessed format which can be directly used for training.
+Crema-D, eNTERFACE'05 datasets and ResNet3D-50-KMS pretrained weights can be downloaded following links, [Crema-D](https://drive.google.com/drive/folders/15fLaAmJnFEaUpx0pqikQqptg5dAkT0QX?usp=sharing), [eNTERFACE'05](https://drive.google.com/drive/folders/1PG9XDSpjduN5ygghUH078XvVoxiB2n0e?usp=sharing) and [ResNet3D-50-KMS](https://drive.google.com/file/d/1Z1agO6kKkMr-RcQz3DTptOORrqma1dQd/view). The samples in the datasets are in the preprosessed format which can be directly used for training.
 
 ## Running the Code
 1. Place the datasets and IPYNB files to the any Google Drive account.

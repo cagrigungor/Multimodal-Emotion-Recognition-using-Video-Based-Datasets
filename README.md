@@ -3,4 +3,4 @@ Thanks for your attention. In this repo, we provide the code for the Bilkent Uni
 ### Authors:
 Mustafa Çağrı Güngör,
 Merve Özen,
-Nurefşan Müsevitoğlu,
+Nurefşan Müsevitoğlu

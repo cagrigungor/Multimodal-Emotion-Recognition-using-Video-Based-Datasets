@@ -19,4 +19,4 @@ drive.mount('/mntDrive')
 ```
 CREMA_D_PATH = "/mntDrive/My Drive/Data/CREMA-D"
 ```
-4. Enter Runtime menu, change runtime type as GPU (it is needed) and Run all cells.
+4. Enter Runtime menu, change runtime type as GPU (it is needed) and run all cells.

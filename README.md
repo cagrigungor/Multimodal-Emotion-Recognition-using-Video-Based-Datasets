@@ -15,8 +15,9 @@ Crema-D, eNTERFACE'05 datasets and ResNet3D-50-KMS pretrained weights can be dow
 from google.colab import drive 
 drive.mount('/mntDrive')
 ```
-3. Change the datasets directory according to where it is placed in the Google Drive. The code script below are included in the second cell of the all IPYNB files. 
+3. Change the datasets and pre-trained weights directory according to where it is placed in the Google Drive. The code script below are included in the second cell of the all IPYNB files. 
 ```
 CREMA_D_PATH = "/mntDrive/My Drive/Data/CREMA-D"
+pretrain_path = "/mntDrive/My Drive/Data/r3d50_KMS_200ep.pth"
 ```
 4. Enter Runtime menu, change runtime type as GPU (it is needed) and run all cells.

@@ -21,3 +21,8 @@ CREMA_D_PATH = "/mntDrive/My Drive/Data/CREMA-D"
 pretrain_path = "/mntDrive/My Drive/Data/r3d50_KMS_200ep.pth"
 ```
 4. Enter Runtime menu, change runtime type as GPU (it is needed) and run all cells.
+### Note:
+While Google Colab running the cell below, the error "[Errno 5] Input/output error:" can be occurred due to tring to access big amount of data. The error is stem from the Google Drive environment and the solution is that run the cell below again, then run all again. The problem will be solved.
+```
+files = os.listdir(CREMA_D_PATH)
+```

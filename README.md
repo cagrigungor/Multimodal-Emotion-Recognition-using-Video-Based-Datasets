@@ -1,5 +1,5 @@
 # Multimodal Emotion Recognition using Video-Based Datasets
-Thanks for your attention. In this repo, we provide the code for the Bilkent University 2019-2020 Spring CS-484-555 Introduction to Computer Vision course final project. 
+Thanks for your attention. In this repo, we provide the code for the Bilkent University 2019-2020 Spring CS-484-555 Introduction to Computer Vision course final project. The code consist of six IPYNB file which are 3D Conv method, CNN-RNN method and Fusion of these methods for both Crema-D and eNTERFACE'05 datasets.
 ### Authors:
 Mustafa Çağrı Güngör,
 Merve Özen,

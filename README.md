@@ -9,7 +9,7 @@ Nurefşan Müsevitoğlu
 Crema-D and eNTERFACE'05 datasets can be downloaded following links, [Crema-D](https://drive.google.com/drive/folders/15fLaAmJnFEaUpx0pqikQqptg5dAkT0QX?usp=sharing) and [eNTERFACE'05](https://drive.google.com/drive/folders/1PG9XDSpjduN5ygghUH078XvVoxiB2n0e?usp=sharing). The samples in the datasets are in the preprosessed format which can be directly used for training.
 
 ## Running the Code
-1. Placed the datasets in the Google Drive account.
+1. Place the datasets and IPYNB files to the any Google Drive account.
 2. Mount the Google Drive account in the environment of Google Colab. The code script below, connects your Google Drive to Colab. The script are included in the first cell of the all IPYNB files.
 ```
 from google.colab import drive 
